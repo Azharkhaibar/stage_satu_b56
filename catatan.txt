@@ -1,0 +1,13 @@
+#info {
+  position: absolute;
+  background-color: rgb(255, 81, 37);
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  top: 6%;
+  border-radius: 30px;
+  left: 10%;
+}
