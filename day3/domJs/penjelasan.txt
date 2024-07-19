@@ -1,0 +1,11 @@
+ -- DOM events memungkinkan Anda untuk merespons interaksi pengguna seperti klik, penekanan tombol, pengisian formulir, dan banyak lagi. Mari kita bahas beberapa konsep dasar dan contoh penggunaannya:
+
+ 1. Apa itu DOM Event?
+Event DOM adalah sesuatu yang terjadi pada elemen HTML yang dapat Anda tanggapi dengan JavaScript. Contoh event DOM termasuk klik mouse, pengisian formulir, dan perubahan elemen.
+
+2. Menangani Event
+Untuk menangani event, Anda perlu:
+
+Menentukan elemen yang ingin Anda tangani event-nya.
+Menambahkan event listener ke elemen tersebut.
+Menulis fungsi yang akan dijalankan ketika event terjadi.
